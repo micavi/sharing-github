@@ -750,4 +750,7 @@ Viber Messenger : 500,000,000+
 WeChat : 100,000,000+
 Yahoo Mail – Stay Organized : 100,000,000+
 BBM - Free Calls & Messages : 100,000,000+
+
+
+This project analyzes data about the App Store and Google Play mobile apps with the goal of centering on an app profile that can be profitable for both markets. The result of the analysis is mostly import for our developers to have a better knowledge and understanding on what type of apps most likely attract more users on Google and App store Mobile apps.  I started by exploring through the data and deleted some wrong data which has more than one entry.  In addition duplicate entries were removed which count more than once.  Since building apps that are free to download and install are one of our main objective we isolated only the free apps for the analysis.  Using the frequency tables we analyzed the most popular genres for each market which helped us to come up with what apps are more attractive to the users as our revenue is highly influenced by the number of people using our apps.
 ​​
