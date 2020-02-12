@@ -4,9 +4,9 @@
 
 
      This project is about building Android and IOS mobile apps that are free to download and install.  Since the main source of revenue
-consists of in-app ads, it shows that our revenue for any app is highly dependant on the number of users who use our app.
+consists of in-app ads, it shows that our revenue for any app is highly dependent on the number of users who use our app.
 
-     Whenever more users see and engage with the ads, the more income would be generated.  Therefore our goal for this porject is to
+     Whenever more users see and engage with the ads, the more income would be generated.  Therefore our goal for this project is to
 analyze data to help our developers understand what type of apps are likely to attract more users.
 _____________________________________________________________________________________________________________________________
 
